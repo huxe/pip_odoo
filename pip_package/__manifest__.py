@@ -3,7 +3,7 @@
 
 {
     'name': 'Install pip packages',
-    'version': '14.0.1.1.2',
+    'version': '15.0.1.1.2',
     'category': 'Extra Tools',
     'live_test_url':'https://youtu.be/0kVWD5G59M8',
     'summary': 'You can install any pip module',
